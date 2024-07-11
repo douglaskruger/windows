@@ -1,0 +1,6 @@
+# Windows 10 Notes
+
+# Extend the Windows 10 License - a reboot required
+slmgr /rearm
+
+AOMEI Partition Assistant
